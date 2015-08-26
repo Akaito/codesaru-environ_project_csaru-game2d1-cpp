@@ -8,12 +8,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "csaru-game2d1-cpp", "..\..\src\csaru-game2d1-cpp\csaru-game2d1-cpp.vcxproj", "{A34A1937-C9DC-4D49-A6E4-B175051F64CE}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C2BC5296-D2AE-485E-B232-BBCF5B5715B3} = {C2BC5296-D2AE-485E-B232-BBCF5B5715B3}
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB} = {E961D6DE-FEB1-4178-B1EE-C52EB81614EB}
-	EndProjectSection
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "csaru-math-cpp-lib", "..\..\src\csaru-math-cpp\csaru-math-cpp-lib.vcxproj", "{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}"
-	ProjectSection(ProjectDependencies) = postProject
-		{C2BC5296-D2AE-485E-B232-BBCF5B5715B3} = {C2BC5296-D2AE-485E-B232-BBCF5B5715B3}
 	EndProjectSection
 EndProject
 Global
@@ -40,14 +34,6 @@ Global
 		{A34A1937-C9DC-4D49-A6E4-B175051F64CE}.Release|Win32.Build.0 = Release|Win32
 		{A34A1937-C9DC-4D49-A6E4-B175051F64CE}.Release|x64.ActiveCfg = Release|x64
 		{A34A1937-C9DC-4D49-A6E4-B175051F64CE}.Release|x64.Build.0 = Release|x64
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}.Debug|Win32.ActiveCfg = Debug|Win32
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}.Debug|Win32.Build.0 = Debug|Win32
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}.Debug|x64.ActiveCfg = Debug|x64
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}.Debug|x64.Build.0 = Debug|x64
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}.Release|Win32.ActiveCfg = Release|Win32
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}.Release|Win32.Build.0 = Release|Win32
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}.Release|x64.ActiveCfg = Release|x64
-		{E961D6DE-FEB1-4178-B1EE-C52EB81614EB}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
